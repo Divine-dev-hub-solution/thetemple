@@ -1,0 +1,161 @@
+/* volunteer table */
+table.volunteer-social-icon-table,
+table.features-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.volunteer-social-icon-table td, .volunteer-social-icon-table th,
+.features-table td,
+.features-table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.volunteer-social-icon-table tr:nth-child(even),
+.features-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.volunteer-table-row-add.button {
+	margin-top: 1rem;
+}
+.iconpicker .iconpicker-item {
+    float: left;
+    width: 14px;
+    height: 14px;
+    padding: 12px;
+    margin: 0 12px 12px 0;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+    box-shadow: 0 0 0 1px #ddd;
+    color: inherit;
+    line-height: 14px;
+    text-decoration: none;
+}
+
+/* Authors Table */
+table.event-author-details-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+}
+.event-author-details-table td, .event-author-details-table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.event-author-details-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.event-authors-table-row-add {
+	margin-top: 1rem;
+}
+table.philosophy-author-details-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+}
+.philosophy-author-details-table td, .philosophy-author-details-table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.philosophy-author-details-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.philosophy-authors-table-row-add {
+	margin-top: 1rem;
+}
+#adminmenu li.menu-top#menu-posts-volunteer,
+#adminmenu li.menu-top#menu-posts-testimonial,
+#adminmenu li.menu-top#menu-posts-stories,
+#adminmenu li.menu-top#menu-posts-service,
+#adminmenu li.menu-top#menu-posts-ministries,
+#adminmenu li.menu-top#menu-posts-sermons,
+#adminmenu li.menu-top#menu-posts-events,
+#adminmenu li.menu-top#menu-posts-prayer,
+#adminmenu li.menu-top#toplevel_page_maharatri-options,
+#adminmenu li.menu-top#menu-posts-buddhism,
+#adminmenu li.menu-top#menu-posts-community,
+#adminmenu li.menu-top#menu-posts-philosophy,
+#adminmenu li.menu-top#menu-posts-holis,
+#adminmenu li.menu-top#menu-posts-puja {
+    background: #7E4555;
+}
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-volunteer a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-testimonial a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-stories a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-service a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-ministries a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-sermons a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-events a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-prayer a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#toplevel_page_maharatri-options a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-buddhism a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-community a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-philosophy a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-holis a.wp-has-current-submenu,
+#adminmenu li.menu-top.wp-has-current-submenu#menu-posts-puja a.wp-has-current-submenu{
+    background: #CD411C;
+}
+
+/*=== Redux panel css ===*/
+.redux-container #redux-header {
+    background: #DB4242 !important;
+    border-color: #7E4555 !important;
+}
+.redux-container .redux-sidebar .redux-group-menu {
+    background-color: #DB4242;
+}
+.redux-container .redux-sidebar .redux-group-menu li.active a,
+.redux-container .redux-sidebar .redux-group-menu li a:hover,
+.redux-container .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a{
+  background-color: #7E4555 !important;
+}
+.redux-container .redux-sidebar .redux-group-menu li .subsection .redux-group-tab-link-li .redux-group-tab-link-a:hover{
+  color: #7E4555 !important;
+}
+.redux-container #redux-header .display_header span {
+    color: #fff !important;
+}
+
+.maharatri-wc-btn {
+    display: block;
+    margin-right: 20px;
+}
+.maharatri-wc-btn .redx-custom-btn {
+    z-index: 1;
+    background: #7E4555;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 20px;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    position: relative;
+    display: inline-block;
+}
+.maharatri-wc-btn .redx-custom-btn:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center;
+    background-color: #DB424245;
+    width: 10px;
+    height: calc(100% - 15px);
+    z-index: -1;
+    transition: .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.maharatri-wc-btn .redx-custom-btn:hover:before {
+    width: calc(100% - 14px);
+    opacity: 1;
+    visibility: visible;
+}

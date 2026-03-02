@@ -1,0 +1,56 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: March 2, 2026 11:29 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.15
+WORDPRESS:	6.9.1
+PHP INFO:	8.2.0 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) PHP/8.2.0 mod_fcgid/2.3.10-dev 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 76MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:101 | filtered:0 | create:101
+FILTERED: []
+[PHP ERR][WARN] MSG:Trying to access array offset on value of type null [CODE:2|FILE:C:\wamp64\www\thetemple\wp-content\plugins\duplicator\classes\package\class.pack.database.php|LINE:731]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Database->build, DUP_Database->phpDump, DUP_Handler::error, DUP_Handler::getMessage
+[PHP ERR][ISSUE] MSG:str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated [CODE:8192|FILE:C:\wamp64\www\thetemple\wp-content\plugins\duplicator\classes\package\class.pack.database.php|LINE:731]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Database->build, DUP_Database->phpDump, str_replace, DUP_Handler::error, DUP_Handler::getMessage
+SQL CREATED: 20260302_thetemple_4f17f8368b43c6529980_20260302112519_database.sql
+SQL FILE SIZE: 6.31MB (6619622)
+SQL FILE TIME: 2026-03-02 11:29:23
+SQL RUNTIME: 6.38 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/thetemple
+ARCHIVE FILE: 20260302_thetemple_4f17f8368b43c6529980_20260302112519_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	635.88MB
+STATS:	Dirs 5,506 | Files 33,214
+SQL ADDED: 20260302_thetemple_4f17f8368b43c6529980_20260302112519_database.sql
+ZipArchive Object
+(
+    [lastId] => 38719
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 38720
+    [filename] => C:\wamp64\www\thetemple\wp-content\backups-dup-lite\tmp\20260302_thetemple_4f17f8368b43c6529980_20260302112519_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 38719

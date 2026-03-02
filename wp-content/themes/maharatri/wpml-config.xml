@@ -1,0 +1,43 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">service</custom-type>
+		<custom-type translate="1">stories</custom-type>
+		<custom-type translate="1">volunteer</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+		<custom-type translate="1">philosophy</custom-type>
+		<custom-type translate="1">puja</custom-type>
+		<custom-type translate="1">holis</custom-type>
+		<custom-type translate="1">buddhism</custom-type>
+		<custom-type translate="1">community</custom-type>
+		<custom-type translate="1">ministries</custom-type>
+		<custom-type translate="1">events</custom-type>
+		<custom-type translate="1">sermons</custom-type>
+		<custom-type translate="1">prayer</custom-type>
+
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">service-category</taxonomy>
+		<taxonomy translate="1">stories-category</taxonomy>
+		<taxonomy translate="1">volunteer-category</taxonomy>
+		<taxonomy translate="1">testimonial-category</taxonomy>
+		<taxonomy translate="1">philosophy-category</taxonomy>
+		<taxonomy translate="1">puja-category</taxonomy>
+		<taxonomy translate="1">holis-category</taxonomy>
+		<taxonomy translate="1">buddhism-category</taxonomy>
+		<taxonomy translate="1">community-category</taxonomy>
+		<taxonomy translate="1">ministries-category</taxonomy>
+		<taxonomy translate="1">events-category</taxonomy>
+		<taxonomy translate="1">sermons-category</taxonomy>
+		<taxonomy translate="1">prayer-category</taxonomy>
+
+		</taxonomies>
+    <admin-texts>
+		<key name="maharatri_options">
+			<key name="copyright_text_left" />
+			<key name="copyright_text_right" />
+			<key name="header_button_title" />
+			<key name="fof_page_title" />
+			<key name="fof_page_description" />
+		</key>
+	</admin-texts>
+</wpml-config>

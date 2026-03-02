@@ -1,0 +1,3659 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-23 10:26+0530\n"
+"PO-Revision-Date: 2022-02-23 10:26+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:19 inc/redux-options/options/404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:28 inc/redux-options/options/404.php:39
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+msgid "Name"
+msgstr ""
+
+#: comments.php:71 template-parts/header/elements/contact-info.php:97
+msgid "Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Website"
+msgstr ""
+
+#: comments.php:79
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:83
+msgid "Enter your comment here..."
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: page.php:38 template-parts/events/single/style-1.php:55
+#: template-parts/post/single/style-1.php:87 templates/full-width.php:29
+msgid "Pages:"
+msgstr ""
+
+#: product-searchform.php:11
+msgid "Search Products..."
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: classes/class-maharatri-walker-category.php:87
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: classes/class-maharatri-walker-comment.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: classes/class-maharatri-walker-comment.php:35
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: classes/class-maharatri-walker-comment.php:56
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: give/single-give-form/featured-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: inc/functions-scripts.php:16
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions-scripts.php:21
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions-setup.php:20
+msgid "Portfolio Image"
+msgstr ""
+
+#: inc/functions-setup.php:26
+msgid "Stories Image"
+msgstr ""
+
+#: inc/functions-setup.php:32
+msgid "Stories Small Image"
+msgstr ""
+
+#: inc/functions-setup.php:38
+msgid "Stories Square Image"
+msgstr ""
+
+#: inc/functions-setup.php:44
+msgid "Blog Image"
+msgstr ""
+
+#: inc/functions-setup.php:50
+msgid "Volunteer Image"
+msgstr ""
+
+#: inc/functions-setup.php:56
+msgid "Product Image"
+msgstr ""
+
+#: inc/functions-setup.php:62
+msgid "Service Image"
+msgstr ""
+
+#: inc/functions-setup.php:68
+msgid "Ministries Image"
+msgstr ""
+
+#: inc/functions-setup.php:85
+msgid "@2x"
+msgstr ""
+
+#: inc/functions-setup.php:134
+msgid "Primary"
+msgstr ""
+
+#: inc/functions-setup.php:135
+msgid "Mobile"
+msgstr ""
+
+#: inc/functions-setup.php:136
+msgid "Top Menu"
+msgstr ""
+
+#: inc/functions-sidebars.php:19
+#: inc/redux-options/options/blog-settings.php:42
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:21
+msgid "Blog Sidebar."
+msgstr ""
+
+#: inc/functions-sidebars.php:31
+msgid "Footer column 1"
+msgstr ""
+
+#: inc/functions-sidebars.php:33 inc/functions-sidebars.php:44
+#: inc/functions-sidebars.php:55 inc/functions-sidebars.php:66
+#: inc/functions-sidebars.php:77 inc/functions-sidebars.php:88
+#: inc/functions-sidebars.php:99 inc/functions-sidebars.php:110
+#: inc/functions-sidebars.php:121 inc/functions-sidebars.php:132
+#: inc/functions-sidebars.php:143 inc/functions-sidebars.php:154
+#: inc/functions-sidebars.php:165 inc/functions-sidebars.php:176
+#: inc/functions-sidebars.php:187 inc/functions-sidebars.php:198
+#: inc/functions-sidebars.php:209 inc/functions-sidebars.php:220
+#: inc/functions-sidebars.php:231
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/functions-sidebars.php:42
+msgid "Footer column 2"
+msgstr ""
+
+#: inc/functions-sidebars.php:53
+msgid "Footer column 3"
+msgstr ""
+
+#: inc/functions-sidebars.php:64
+msgid "Footer column 4"
+msgstr ""
+
+#: inc/functions-sidebars.php:75
+#: inc/redux-options/options/page-settings.php:15
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:86
+msgid "Stories Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:97
+#: inc/redux-options/options/service-settings.php:15
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:108
+msgid "Ministries Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:119
+msgid "Sermons Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:130
+msgid "Header Collapse Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:141
+#: inc/redux-options/options/events-settings.php:74
+msgid "Events Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:152
+#: inc/redux-options/options/events-settings.php:96
+msgid "Events Details Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:163
+msgid "Prayer Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:174
+msgid "Community Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:185
+msgid "Buddhism Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:196
+msgid "Philosophy Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:207
+msgid "Philosophy Details Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:218
+#: inc/redux-options/options/puja-settings.php:15
+msgid "Puja Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:229
+#: inc/redux-options/options/holis-settings.php:15
+msgid "Holis Sidebar"
+msgstr ""
+
+#: inc/functions-subheader.php:83
+msgid "Home"
+msgstr ""
+
+#: inc/functions-subheader.php:184
+msgid "Author archive for"
+msgstr ""
+
+#: inc/functions-subheader.php:213
+msgid " Search query for: "
+msgstr ""
+
+#: inc/functions-subheader.php:217
+msgid " Error 404"
+msgstr ""
+
+#: inc/functions-subheader.php:222
+#, php-format
+msgid " ( Page %s )"
+msgstr ""
+
+#: inc/functions-woo-compare.php:86
+msgid "Compare products"
+msgstr ""
+
+#: inc/functions-woo-compare.php:87
+msgid "Compare"
+msgstr ""
+
+#: inc/functions-woo-compare.php:289
+msgid "Compare list is empty."
+msgstr ""
+
+#: inc/functions-woo-compare.php:293
+msgid "Return to shop"
+msgstr ""
+
+#: inc/functions-woo-compare.php:356 woocommerce/wishlist-view.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/functions-woo-compare.php:523
+msgid "In stock"
+msgstr ""
+
+#: inc/functions-woo-compare.php:606 inc/functions-woo-compare.php:641
+#: inc/redux-options/options/product-settings.php:80
+msgid "Description"
+msgstr ""
+
+#: inc/functions-woo-compare.php:610 inc/functions-woo-compare.php:647
+msgid "Dimensions"
+msgstr ""
+
+#: inc/functions-woo-compare.php:614 inc/functions-woo-compare.php:646
+#: inc/redux-options/options/product-settings.php:84
+msgid "Weight"
+msgstr ""
+
+#: inc/functions-woo-compare.php:618 inc/functions-woo-compare.php:643
+#: inc/redux-options/options/product-settings.php:82
+msgid "Availability"
+msgstr ""
+
+#: inc/functions-woo-compare.php:622 inc/functions-woo-compare.php:642
+msgid "Sku"
+msgstr ""
+
+#: inc/functions-woo-compare.php:669
+msgid " added to compare list"
+msgstr ""
+
+#: inc/functions-woocommerce.php:114
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/functions-woocommerce.php:116
+msgid "Add widgets here to appear in your Shop."
+msgstr ""
+
+#: inc/functions-woocommerce.php:123
+msgid "Product Details Sidebar"
+msgstr ""
+
+#: inc/functions-woocommerce.php:125
+msgid "Add widgets here to appear in your product details page."
+msgstr ""
+
+#: inc/functions-woocommerce.php:165
+msgid "Lost password"
+msgstr ""
+
+#: inc/functions-woocommerce.php:343
+msgid " In stock"
+msgstr ""
+
+#: inc/functions-woocommerce.php:343 woocommerce/wishlist-view.php:191
+msgid "Out of stock"
+msgstr ""
+
+#: inc/functions-woocommerce.php:365
+msgid "Sold"
+msgstr ""
+
+#: inc/functions-woocommerce.php:405
+#, php-format
+msgid "%s Off"
+msgstr ""
+
+#: inc/functions-woocommerce.php:443
+#: template-parts/header/elements/cart.php:24
+msgid "Your Cart"
+msgstr ""
+
+#: inc/functions-woocommerce.php:447
+#: template-parts/header/elements/cart.php:28
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions-woocommerce.php:475
+msgid "Product added to cart"
+msgstr ""
+
+#: inc/template-functions.php:301 inc/template-functions.php:357
+msgid "Information"
+msgstr ""
+
+#: inc/template-functions.php:304 inc/template-functions.php:360
+#: template-parts/puja/single/style-1.php:29
+msgid "Date:"
+msgstr ""
+
+#: inc/template-functions.php:307 inc/template-functions.php:363
+msgid "Time:"
+msgstr ""
+
+#: inc/template-functions.php:315
+msgid "Event Category:"
+msgstr ""
+
+#: inc/template-functions.php:318
+msgid "City:"
+msgstr ""
+
+#: inc/template-functions.php:321
+msgid "State:"
+msgstr ""
+
+#: inc/template-functions.php:324
+msgid "Zipcode:"
+msgstr ""
+
+#: inc/template-functions.php:327
+msgid "Country:"
+msgstr ""
+
+#: inc/template-functions.php:330 inc/template-functions.php:374
+msgid "Organizer:"
+msgstr ""
+
+#: inc/template-functions.php:333 inc/template-functions.php:377
+msgid "Phone:"
+msgstr ""
+
+#: inc/template-functions.php:339 inc/template-functions.php:383
+msgid "Book Now"
+msgstr ""
+
+#: inc/template-functions.php:371
+msgid "Philosophy Category:"
+msgstr ""
+
+#: inc/template-functions.php:397 inc/template-functions.php:439
+msgid "Speakers"
+msgstr ""
+
+#: inc/template-functions.php:676 inc/template-functions.php:714
+msgid "Submit Prayer"
+msgstr ""
+
+#: inc/template-functions.php:679
+msgid "Enter Prayer Title"
+msgstr ""
+
+#: inc/template-functions.php:682
+msgid "Enter Prayer Content"
+msgstr ""
+
+#: inc/template-functions.php:690
+msgid "Select Categories"
+msgstr ""
+
+#: inc/template-functions.php:704
+msgid "Select Tags"
+msgstr ""
+
+#: inc/template-functions.php:755
+msgid "Prayer submitted successfully"
+msgstr ""
+
+#: inc/template-functions.php:758
+msgid "*Error occurred while adding the post"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Written By "
+msgstr ""
+
+#: inc/template-tags.php:80
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Related Posts"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:197
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:223 template-parts/events/single/style-1.php:66
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:252 inc/template-tags.php:254
+msgid "comments"
+msgstr ""
+
+#: inc/template-tags.php:253
+msgid "comment"
+msgstr ""
+
+#: inc/template-tags.php:277
+msgid "About Me"
+msgstr ""
+
+#: inc/redux-options/redux-config.php:24 inc/redux-options/redux-config.php:26
+#, php-format
+msgid "%s - Theme Options"
+msgstr ""
+
+#: inc/redux-options/options/404.php:8
+msgid "404 Page"
+msgstr ""
+
+#: inc/redux-options/options/404.php:16
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-options/options/404.php:17
+msgid "Enter 404 page title."
+msgstr ""
+
+#: inc/redux-options/options/404.php:23
+msgid "Page Description"
+msgstr ""
+
+#: inc/redux-options/options/404.php:24
+msgid "Enter 404 page description."
+msgstr ""
+
+#: inc/redux-options/options/404.php:31
+msgid "404 Background"
+msgstr ""
+
+#: inc/redux-options/options/404.php:32
+msgid "Set 404 background."
+msgstr ""
+
+#: inc/redux-options/options/additional-settings.php:15
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/redux-options/options/additional-settings.php:16
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/redux-options/options/additional-settings.php:25
+msgid "Custom JS"
+msgstr ""
+
+#: inc/redux-options/options/additional-settings.php:26
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:15
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:16
+msgid "Please select the blog style to display."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:18
+msgid "Blog Style 1"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:19
+msgid "Blog Style 2"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:20
+msgid "Blog Style 3"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:21
+msgid "Blog Style 4"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:22
+msgid "Blog Style 5"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:29
+#: inc/redux-options/options/donation-settings.php:42
+#: inc/redux-options/options/events-settings.php:25
+#: inc/redux-options/options/holis-settings.php:42
+#: inc/redux-options/options/puja-settings.php:44
+#: inc/redux-options/options/service-settings.php:44
+#: inc/redux-options/options/volunteer-settings.php:26
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:30
+msgid "Please select the number of columns in blog archive."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:32
+#: inc/redux-options/options/donation-settings.php:45
+#: inc/redux-options/options/events-settings.php:28
+#: inc/redux-options/options/holis-settings.php:45
+#: inc/redux-options/options/puja-settings.php:47
+#: inc/redux-options/options/service-settings.php:47
+#: inc/redux-options/options/volunteer-settings.php:29
+msgid "1 Column"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:33
+#: inc/redux-options/options/donation-settings.php:46
+#: inc/redux-options/options/holis-settings.php:46
+#: inc/redux-options/options/puja-settings.php:48
+#: inc/redux-options/options/service-settings.php:48
+#: inc/redux-options/options/volunteer-settings.php:30
+msgid "2 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:34
+#: inc/redux-options/options/donation-settings.php:47
+#: inc/redux-options/options/holis-settings.php:47
+#: inc/redux-options/options/puja-settings.php:49
+#: inc/redux-options/options/service-settings.php:49
+#: inc/redux-options/options/volunteer-settings.php:31
+msgid "3 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:35
+#: inc/redux-options/options/donation-settings.php:48
+#: inc/redux-options/options/holis-settings.php:48
+#: inc/redux-options/options/puja-settings.php:50
+#: inc/redux-options/options/service-settings.php:50
+#: inc/redux-options/options/volunteer-settings.php:32
+msgid "4 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:43
+msgid "Select the blog sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:46
+#: inc/redux-options/options/page-settings.php:19
+#: inc/redux-options/options/page-settings.php:40
+#: inc/redux-options/options/woocommerce-settings.php:19
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:50
+#: inc/redux-options/options/donation-settings.php:18
+#: inc/redux-options/options/events-settings.php:78
+#: inc/redux-options/options/events-settings.php:100
+#: inc/redux-options/options/holis-settings.php:19
+#: inc/redux-options/options/page-settings.php:23
+#: inc/redux-options/options/puja-settings.php:19
+#: inc/redux-options/options/service-settings.php:19
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:54
+#: inc/redux-options/options/donation-settings.php:19
+#: inc/redux-options/options/events-settings.php:82
+#: inc/redux-options/options/events-settings.php:104
+#: inc/redux-options/options/holis-settings.php:23
+#: inc/redux-options/options/page-settings.php:27
+#: inc/redux-options/options/puja-settings.php:23
+#: inc/redux-options/options/service-settings.php:23
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:63
+msgid "Show Post Author box in sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:69
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:75
+msgid "Show Post Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:81
+msgid "Facebook Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:82
+msgid "You can share post on facebook."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:89
+msgid "Twitter Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:90
+msgid "You can share post on twitter"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:97
+msgid "Linkedin Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:98
+msgid "You can share post on linkedin"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:105
+msgid "Pinterest Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:106
+msgid "You can share post on pinterest"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:113
+msgid "Tumblr Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:114
+msgid "You can share post on Tumblr"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:121
+msgid "Skype Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:122
+msgid "You can share post on Skype"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:129
+msgid "Gallery post format images"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:130
+msgid "Enter no of gallery images attachments in post format gallery."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:136
+msgid "Select Audio Format Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:137
+msgid "Please select the audio format sytle for post."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:139
+msgid "Default"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:140
+msgid "Full Screen"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:8
+msgid "Button Settings"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:15
+msgid "Select Button Style"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:16
+msgid "Please select the button style."
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:18
+msgid "Button Style 1"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:19
+msgid "Button Style 2"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:20
+msgid "Button Style 3"
+msgstr ""
+
+#: inc/redux-options/options/button-settings.php:21
+msgid "Button Style 4"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:8
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:10
+msgid ""
+"In color schemes, you can change the site default color and set as per your "
+"site design."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:16
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:17
+msgid "Set primary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:24
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:25
+msgid "Set secondary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:32
+msgid "Tertiary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:33
+msgid "Set tertiary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:8
+msgid "Contact Information"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:16
+msgid "Company Email"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:17
+msgid "Please enter contact email address."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:19
+msgid "Please enter valid email."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:24
+msgid "Company Phone Number"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:25
+msgid "Please enter contact phone number."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:30
+msgid "Company Address"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:31
+msgid "Please enter contact address."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:36
+msgid "Company Google map link"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:37
+msgid "Please enter google maps link"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:42
+msgid "Company Description"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:43
+msgid "Please type a small description of your company"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:49
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:50
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:51
+msgid "Dribbble"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:52
+msgid "Vimeo"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:53
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:54
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:55
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:56
+msgid "Instagram"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:60
+msgid "Social info to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:61
+msgid "Arrange the fields you wanted to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:66
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:67
+msgid "Enter facebook url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:72
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:73
+msgid "Enter twitter url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:78
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:79
+msgid "Enter dribbble url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:84
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:85
+msgid "Enter vimeo url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:90
+#: inc/redux-options/options/contact-info.php:114
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:91
+#: inc/redux-options/options/contact-info.php:115
+msgid "Enter pinterest url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:96
+msgid "LinkedIn Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:97
+msgid "Enter linkedin url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:102
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:103
+msgid "Enter youtube url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:108
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:109
+msgid "Enter instagram url."
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:8
+#: inc/redux-options/options/custom-post-type-settings.php:16
+msgid "Custom Post Types"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:17
+msgid ""
+"Please drag and arrange the cpt blocks. Update permalinks after enable/"
+"disable any custom post type block"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:21
+msgid "Volunteer"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:22
+msgid "Testimonial"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:23
+msgid "Service"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:24
+msgid "Events"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:25
+msgid "Holis"
+msgstr ""
+
+#: inc/redux-options/options/custom-post-type-settings.php:26
+msgid "Puja"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:8
+msgid "Donation Settings"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:15
+msgid "Donation Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:16
+msgid "Select the Donation sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:26
+msgid "Select Donation Style"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:27
+msgid "Please select the Donation archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:29
+#: inc/redux-options/options/product-settings.php:18
+#: inc/redux-options/options/subheader-settings.php:23
+msgid "Style 1"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:30
+#: inc/redux-options/options/product-settings.php:19
+#: inc/redux-options/options/subheader-settings.php:24
+msgid "Style 2"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:31
+#: inc/redux-options/options/subheader-settings.php:25
+msgid "Style 3"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:32
+#: inc/redux-options/options/subheader-settings.php:26
+msgid "Style 4"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:33
+msgid "Style 5"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:34
+msgid "Style 6"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:43
+msgid "Please select the number of columns in donation archive."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:55
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:62
+msgid "Show Subtitle"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:69
+msgid "Donation Subtitle"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:8
+msgid "Events Settings"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:15
+msgid "Select Events Style"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:16
+msgid "Please select the Events archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:18
+msgid "Events Style 1"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:26
+msgid "Please select the number of columns in events archive."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:29
+msgid "2 Column"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:30
+msgid "3 Column"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:31
+msgid "4 Column"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:38
+msgid "Show Events Date"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:39
+#: inc/redux-options/options/events-settings.php:46
+msgid "Enable to show events excerpt."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:45
+msgid "Show Events Excerpt"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:52
+#: inc/redux-options/options/product-settings.php:47
+#: inc/redux-options/options/puja-settings.php:65
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:53
+msgid "Enter no of words to show in events excerpt."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:60
+msgid "Show Events Time"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:61
+msgid "Enable to show events time."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:67
+msgid "Show Events Location"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:68
+msgid "Enable to show events location."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:75
+msgid "Select the events sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:90
+msgid "Event Details"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:97
+msgid "Select the events details sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:113
+msgid "Show Events Details Info"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:114
+msgid "Enable to show events details info on details page"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:120
+msgid "Show Events Speakers"
+msgstr ""
+
+#: inc/redux-options/options/events-settings.php:121
+msgid "Enable to show events speakers on details page."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:15
+msgid "Select Footer Layout"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:16
+msgid "Please select the footer style to display."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:18
+msgid "Footer Layout 1"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:19
+msgid "Footer Layout 2"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:20
+msgid "Footer Layout 3"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:27
+msgid "Select Footer Color Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:28
+msgid "Please select the footer color scheme to display."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:30
+#: inc/redux-options/options/header-settings.php:92
+#: inc/redux-options/options/header-settings.php:140
+msgid "Light Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:31
+#: inc/redux-options/options/header-settings.php:91
+#: inc/redux-options/options/header-settings.php:139
+msgid "Dark Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:38
+msgid "Display Footer Topbar"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:47
+#: inc/redux-options/options/footer-settings.php:173
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:51
+#: inc/redux-options/options/footer-settings.php:177
+msgid "Upload image for logo."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:56
+#: inc/redux-options/options/footer-settings.php:182
+msgid "Display Footer Social Links"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:57
+#: inc/redux-options/options/footer-settings.php:183
+msgid "Enable to display the social links in footer topbar."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:64
+msgid "Footer Column layout"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:65
+msgid "Please select the footer layout."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:69
+msgid "Footer column 6 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:73
+msgid "Footer column 8 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:77
+msgid "Footer column 4 - 8"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:81
+msgid "Footer column 4 - 4 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:85
+msgid "Footer column 3 - 3 - 3 - 3"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:89
+msgid "Footer column 6 - 3 - 3"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:93
+msgid "Footer column 3 - 3 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:97
+msgid "Footer column 8 - 2 - 2"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:101
+msgid "Footer column 2 - 2 - 8"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:105
+msgid "Footer column 6 - 2 - 2 - 2"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:109
+msgid "Footer column 2 - 2 - 2 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:113
+msgid "Footer column 2 - 2 - 4 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:117
+msgid "Footer column 4 - 2 - 2 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:125
+msgid "Footer Background (The Whole Footer)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:126
+msgid "Set footer background."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:133
+msgid ""
+"Footer top background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:134
+msgid "Set background color for the footer top."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:139
+msgid ""
+"Footer middle background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:140
+msgid "Set background color for the footer middle."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:145
+msgid ""
+"Footer bottom background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:146
+msgid "Set background color for the footer bottom."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:151
+msgid "Newsletter Text"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:157
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:158
+msgid "Example: [mc4wp_form id=\"47\"]"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:159
+msgid "Enter your newsletter shortcode, we recommend using MC4WP"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:165
+msgid "Display Footer Logo"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:191
+msgid "Copyright Text Left"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:192
+#: inc/redux-options/options/footer-settings.php:199
+msgid "Enter the copyright right content"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:198
+msgid "Copyright Text Right"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:206
+msgid "Footer Background Overlay"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:207
+msgid "Set background overlay color for the footer."
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:8
+msgid "Google Settings"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:16
+msgid "Youtube API"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:17
+msgid "Enter your Youtube API Code here"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:22
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:23
+msgid "Enter your Google Analytics tracking code here"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:28
+msgid "Google Tag Manager"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:29
+msgid "Enter your Google Tag Manager tracking code here"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:34
+msgid "Google Web Master Tools"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:35
+msgid "Enter your Google Web Master Tools <meta> tag here"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:8
+msgid "Header Logo Settings"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:16
+msgid "Site Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:19
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:25
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:28
+msgid ""
+"Will display a secondary logo when header is sticky and scrolling the page. "
+"ONLY available if you have Sticky Header enabled in Header settings."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:33
+msgid "Logo Text link options"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:34
+msgid ""
+"Specify the logo typography properties. Will only work if you don't upload a "
+"logo image."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:46
+msgid "Display Info Card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:47
+msgid "Please choose if you want to display the info card or not."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:53
+msgid "Info Card background color"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:54
+msgid "Set background color for the info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:62
+msgid "Info Card text color"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:63
+msgid "Set text color for the info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:72
+msgid "Info Card Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:75
+msgid "Choose your company logo which will appear in info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:81
+msgid "Display Phone Number?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:82
+msgid ""
+"Please check this if you want to display the company Phone Number in the "
+"card (Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:89
+msgid "Display Email?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:90
+msgid ""
+"Please check this if you want to display the company Email in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:97
+msgid "Display Address?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:98
+msgid ""
+"Please check this if you want to display the company address in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:105
+msgid "Display Map Link?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:106
+msgid ""
+"Please check this if you want to display the company Map Link in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:113
+msgid "Display Description?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:114
+msgid ""
+"Please check this if you want to display the company Description in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:121
+msgid "Display Social Media?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:122
+msgid ""
+"Please check this if you want to display the company Social Media Links in "
+"the card (Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:8
+msgid "Header Settings"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:15
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:16
+msgid "Please select the header style to display."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:18
+msgid "Header Layout 1"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:19
+msgid "Header Layout 2"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:20
+msgid "Header Layout 3"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:21
+msgid "Header Layout 4"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:22
+msgid "Header Layout 5"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:23
+msgid "Header Layout 6"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:30
+msgid "Display Call to Action Button"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:31
+msgid ""
+"Please choose if you want to display the call to action button in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:38
+msgid "Call to Action Button Title"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:39
+#: inc/redux-options/options/header-settings.php:61
+msgid "Enter Call to Action title."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:45
+msgid "Call to Action Button link"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:46
+#: inc/redux-options/options/header-settings.php:82
+msgid "Enter Call to Actionton link."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:52
+msgid "Display Call to action Info "
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:53
+msgid "Please choose if you want to display the call to action info in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:60
+msgid "Call to Action Info Title"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:67
+msgid "Call to Action Info Subtitle"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:68
+msgid "Enter Call to Action subtitle."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:74
+msgid "Call to Action Info icon class"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:75
+msgid "Enter Call to Action icon class."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:81
+msgid "Call to Action link"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:88
+msgid "Select Header Color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:89
+msgid "Please select the header color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:99
+msgid "Select Header Position"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:100
+msgid "Please select the header position"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:102
+msgid "Absolute"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:103
+msgid "Relative"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:110
+msgid "Set Custom Header Width"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:112
+msgid "Enable to set custom header width."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:117
+msgid "Header Custom Content Size"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:118
+msgid "Select your desired Header content size"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:129
+#: inc/redux-options/options/header-settings.php:131
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:136
+msgid "Select Sticky Header Color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:137
+msgid "Please select the sticky header color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:148
+msgid "Header sticky background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:149
+msgid "Set background color for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:155
+msgid "Header sticky color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:156
+msgid "Set color for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:163
+msgid "Header sticky color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:164
+msgid "Set color on hover for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:171
+msgid "Display Search"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:173
+msgid "Enable to display the search in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:179
+msgid "Display User Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:181
+msgid "Enable to display the user icon in header. (WooCommerce Profile)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:187
+msgid "Display collapse sidebar"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:189
+msgid "Enable to display the collapse sidebar icon in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:190
+msgid "Add content in header collapse sidebar using widgets"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:196
+msgid "Display Top Menu"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:203
+msgid "Display Livestream Status"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:210
+msgid "Livestream Link"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:211
+msgid "Enter livestream video link."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:217
+msgid "Livestream Title"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:218
+msgid "Enter livestream video title."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:224
+msgid "Livestream Link Type"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:225
+msgid "Please select the type for livestream link in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:227
+msgid "Popup (Only for video link)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:228
+msgid "Custom Link (For page)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:236
+msgid "Display Cart Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:242
+msgid "Display Wishlist Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:249
+msgid "Display Prayer Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:257
+msgid "Show Phone Contact Info"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:264
+msgid "Show Email Contact Info"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:271
+msgid "Show Address Contact Info"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:277
+msgid "Header bottom background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:278
+msgid "Set background color for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:283
+msgid "Header bottom color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:284
+msgid "Set color for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:290
+msgid "Header bottom color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:291
+msgid "Set color on hover for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:297
+msgid "Header Submenu background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:298
+msgid "Set background color for the submenus."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:303
+msgid "Header Submenu color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:304
+msgid "Set color for the Submenu."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:310
+msgid "Header Submenu color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:311
+msgid "Set color on hover for the Submenu."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:317
+msgid "Header Contact info background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:318
+msgid "Set background color for the contact info."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:324
+msgid "Header Contact info color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:325
+msgid "Set color for the contact info."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:8
+msgid "Header Top Settings"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:21
+msgid "Display Top Header"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:22
+msgid "Please choose if you want to display the top header or not."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:28
+msgid "Display Top Header Social Media"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:29
+msgid ""
+"Please choose if you want to display the top header social media links or "
+"not."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:36
+msgid "Button Title"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:37
+msgid "Enter button title."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:46
+msgid "Button link"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:47
+msgid "Enter button link."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:56
+msgid "Header top background color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:57
+msgid "Set background color for the top header."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:62
+msgid "Header top color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:63
+msgid "Set color for the top header."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:69
+msgid "Header top color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:70
+msgid "Set color on hover for the top header."
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:8
+msgid "Holis Settings"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:16
+msgid "Select the holis sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:32
+msgid "Select Holis Style"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:33
+msgid "Please select the Holis archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:35
+msgid "Holis Style 1"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:43
+msgid "Please select the number of columns in holis archive."
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:55
+msgid "Show Holi Featured Image"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:56
+msgid "Enable to show holi post featured image"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:62
+msgid "Show Holi Audio Link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:63
+msgid "Enable to show holi audio link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:69
+msgid "Select Audio Format"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:70
+msgid "Please select audio link format in holi archive."
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:72
+msgid "Icon"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:73
+msgid "Player"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:81
+msgid "Show Holi Video Link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:82
+msgid "Enable to show holi video link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:88
+msgid "Show Holi PDF Link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:89
+msgid "Enable to show holi pdf link"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:95
+msgid "Show Holis Info"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:96
+msgid "Enable to show holis info on details page"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:102
+msgid "Show Holis Share"
+msgstr ""
+
+#: inc/redux-options/options/holis-settings.php:103
+msgid "Enable to show puja share link on archive page."
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:8
+msgid "Page Settings"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:16
+msgid "Select the page sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:36
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:37
+msgid "Please select the page layout."
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:39
+#: inc/redux-options/options/woocommerce-settings.php:18
+msgid "Boxed"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:8
+msgid "Product Details"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:16
+msgid "Select First Variation by default"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:17
+msgid ""
+"Check if you want to select the first variation in variable products by "
+"default (This overrites the WooCoomerce option on a product level)"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:23
+msgid "Display Product Social Share"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:24
+msgid "Please choose if you want to display the social share for products"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:30
+msgid "Display Payment Method"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:31
+msgid ""
+"Please choose if you want to display payment method details under product "
+"share"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:37
+msgid "Payment Method Title"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:38
+msgid "Enter the title to show under product share."
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:45
+msgid "Payment method Image"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:8
+#: woocommerce/wishlist-view.php:69 woocommerce/cart/cart.php:25
+#: woocommerce/cart/cart.php:56 woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:16
+msgid "Product card style"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:26
+msgid "Show featured badge?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:27
+msgid "Check if you want to show the featured product badge (Only if set)"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:33
+msgid "Show sale badge?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:34
+msgid "Check if you want to show the sale product badge"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:40
+msgid "Show Excerpt?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:41
+msgid "Check if you want to show the recipe excerpt"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:48
+msgid "Number of words to display in the text"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:55
+msgid "Show Notification On added to cart"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:56
+msgid ""
+"Check if you want to show a notification popup when a user adds an item to "
+"the cart."
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:62
+msgid "Show Woo Product Compare Button?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:68
+msgid "Select Compare Page"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:69
+msgid ""
+"Select a page for compare table. It should contain the shortcode shortcode: "
+"[sigma_base_compare]"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:77
+msgid "Select Compare Fields"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:78
+msgid ""
+"Select fields should be presented on the product compare page with table."
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:81
+msgid "SKU"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:83
+msgid "Dimension"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:91
+msgid "Show Notification On added to compare"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:92
+msgid ""
+"Check if you want to show a notification popup when a user adds an item to "
+"the compare."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:8
+msgid "Puja Settings"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:16
+msgid "Select the puja sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:32
+msgid "Select Puja Style"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:33
+msgid "Please select the Puja archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:35
+msgid "Puja Style 1"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:36
+msgid "Puja Style 2"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:37
+msgid "Puja Style 3"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:45
+msgid "Please select the number of columns in puja archive."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:57
+msgid "Show Puja Excerpt"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:58
+msgid "Enable to show puja excerpt."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:66
+msgid "Enter no of words to show in puja excerpt."
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:73
+msgid "Show Puja Info"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:74
+msgid "Enable to show puja info on details page"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:80
+msgid "Show Puja Share"
+msgstr ""
+
+#: inc/redux-options/options/puja-settings.php:81
+msgid "Enable to show puja share link on details page."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:8
+msgid "Rewrite Rules Settings"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:15
+msgid "Volunteer Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:16
+msgid "Enter custom slug for volunteer custom post type."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:21
+msgid "Testimonials Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:22
+msgid "Enter custom slug for testimonials custom post type."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:27
+msgid "Services Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:28
+msgid "Enter custom slug for services custom post type."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:33
+msgid "Events Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:34
+msgid "Enter custom slug for events custom post type."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:39
+msgid "Puja Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:40
+msgid "Enter custom slug for puja custom post type."
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:45
+msgid "Holis Rewrite Slug"
+msgstr ""
+
+#: inc/redux-options/options/rewrite-rules-settings.php:46
+msgid "Enter custom slug for holis custom post type."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:8
+msgid "Service Settings"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:16
+msgid "Select the service sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:32
+msgid "Select Service Style"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:33
+msgid "Please select the Service archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:35
+msgid "Service Style 1"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:36
+msgid "Service Style 2"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:37
+msgid "Service Style 3"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:45
+msgid "Please select the number of columns in service archive."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:57
+msgid "Show Service Share"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:58
+msgid "Enable to show service share in details page"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:8
+msgid "Subheader Settings"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:15
+msgid "Subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:21
+msgid "Subheader Style"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:36
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:38
+msgid "Left"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:39
+msgid "Center"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:40
+msgid "Right"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:50
+msgid "Page Title Pattern"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:52
+msgid "Linear"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:53
+msgid "Skewed"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:54
+msgid "Chalk"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:55
+msgid "Circular"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:65
+msgid "Subheader Height"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:66
+msgid "Set height for the subheader."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:78
+msgid "Display Breadcrumb ?"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:87
+msgid "Breadcrumbs Position"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:89
+msgid "Inline"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:90
+msgid "Before title"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:91
+msgid "After title"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:92
+msgid "Below Image"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:102
+msgid "Background Image"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:103
+msgid "Set page background image."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:119
+msgid "Enter caption title."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:120
+msgid "Subheader Caption"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:125
+msgid "Background Opacity Color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:139
+msgid "Subheader Padding"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:8
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:9
+msgid "This section control the theme's layout"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:17
+msgid "Content Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:18
+msgid "Please choose the desired default size for the content."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:22
+msgid "Custom Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:28
+msgid "Custom Content Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:29
+msgid "Select your desired content size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:40
+msgid "Website body Background color / Image"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:49
+msgid "Mobile View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:50
+msgid ""
+"Enabling App view will redirect your users to a custom home page if they "
+"were on mobile."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:52
+msgid "App View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:53
+msgid "Responsive View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:62
+msgid "Your App view Home page"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:63
+msgid "Enter the URL for the App view Home page"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:69
+msgid "Enable Back to Top"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:75
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:81
+msgid "Select Preloader Style"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:82
+msgid "Please select the preloader style to display."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:84
+msgid "Preloader Style 1"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:85
+msgid "Preloader Style 2"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:86
+msgid "Preloader Style 3"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:87
+msgid "Preloader Style 4"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:88
+msgid "Preloader Style 5"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:89
+msgid "Preloader Style 6"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:90
+msgid "Preloader Style 7"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:98
+msgid "Enable to show icon in menus, heading and tags"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:104
+msgid "Enable Retina Display"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:110
+msgid "Retina Multiplier"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:111
+msgid ""
+"Set the Retina Multiplier value. Example: 2. This will multiply the default "
+"image size by 2. If the image size was 700x700, and you set the multipler to "
+"2, it will become 1400x1400. This will result in crispier images"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:113
+msgid "Example 1,2 or 3"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:16
+msgid "Body and Small Text Color"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:17
+msgid "Set color for body and small text"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:22
+msgid "Headings Text Color"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:23
+msgid "Set color for the headings"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:28
+msgid "Custom Heading Title Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:29
+msgid "Specify typography for heading title."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:41
+msgid "Custom Heading Subtitle Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:42
+msgid "Specify typography for heading subtitle."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:54
+msgid "Body Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:55
+msgid "Specify typography for body tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:67
+msgid "H1 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:68
+msgid "Specify typography for h1 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:80
+msgid "H2 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:81
+msgid "Specify typography for h2 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:93
+msgid "H3 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:94
+msgid "Specify typography for h3 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:106
+msgid "H4 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:107
+msgid "Specify typography for h4 tag.."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:119
+msgid "H5 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:120
+msgid "Specify typography for h5 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:132
+msgid "H6 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:133
+msgid "Specify typography for h6 tag."
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:8
+msgid "Volunteer Settings"
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:15
+msgid "Select Volunteer Style"
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:16
+msgid "Please select the volunteer archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:18
+msgid "Volunteer Style 1"
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:19
+msgid "Volunteer Style 2"
+msgstr ""
+
+#: inc/redux-options/options/volunteer-settings.php:27
+msgid "Please select the number of columns in volunteer archive."
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:8
+msgid "WooCommerce settings"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:16
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:48
+msgid "Sigma Core"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:54
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:60
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:66
+msgid "Give - Donation Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:71
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:76
+msgid "YITH Color and Label Variations for WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:81
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:86
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:91
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:96
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:101
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:106
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:111
+msgid "Instagram Feed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:116
+msgid "Twitter Feed"
+msgstr ""
+
+#: inc/yith/functions-yith-quickview.php:34
+msgid "Quick View"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/events/styles/style-1.php:59
+msgid "Join Now"
+msgstr ""
+
+#: template-parts/give_forms/styles/style-1.php:31
+#: template-parts/give_forms/styles/style-2.php:32
+#: template-parts/give_forms/styles/style-3.php:36
+#: template-parts/give_forms/styles/style-4.php:29
+#: template-parts/give_forms/styles/style-5.php:46
+#: template-parts/give_forms/styles/style-6.php:35
+msgid "Raised:"
+msgstr ""
+
+#: template-parts/give_forms/styles/style-1.php:35
+#: template-parts/give_forms/styles/style-2.php:36
+#: template-parts/give_forms/styles/style-3.php:40
+#: template-parts/give_forms/styles/style-4.php:33
+#: template-parts/give_forms/styles/style-5.php:50
+#: template-parts/give_forms/styles/style-6.php:39
+msgid "Goal:"
+msgstr ""
+
+#: template-parts/give_forms/styles/style-1.php:44
+#: template-parts/give_forms/styles/style-2.php:39
+#: template-parts/give_forms/styles/style-3.php:45
+#: template-parts/give_forms/styles/style-4.php:44
+#: template-parts/give_forms/styles/style-5.php:54
+#: template-parts/give_forms/styles/style-6.php:43
+msgid "Donate Now"
+msgstr ""
+
+#: template-parts/give_forms/styles/style-5.php:42
+#: template-parts/give_forms/styles/style-6.php:31
+msgid "%"
+msgstr ""
+
+#: template-parts/header/elements/cart.php:47
+#: template-parts/header/elements/controls.php:17
+#: template-parts/header/elements/user-icon.php:13
+msgid "My Account"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:25
+msgid "Get Support"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:33
+msgid "Connect Us"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:41
+msgid "Locate"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:82
+msgid "Call us"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:84
+msgid "Call Now"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:95
+msgid "Email us"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:110
+msgid "Address"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:56
+msgid "Call Us:"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:74
+msgid "Email:"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:88
+msgid "Open in Google Maps"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:19
+msgid "Log"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:19
+msgid "In"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:34
+msgid "Remember Me"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:36
+msgid "Forgot Password?"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:40
+#: woocommerce/myaccount/form-login.php:25
+msgid "Login"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:42
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:43
+msgid "Sign Up"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:49
+msgid "Sign"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:49
+msgid "Up"
+msgstr ""
+
+#: template-parts/header/elements/login-register-popup-form.php:91
+#: woocommerce/myaccount/form-login.php:52
+#: woocommerce/myaccount/form-login.php:76
+msgid "Register"
+msgstr ""
+
+#: template-parts/holis/single/style-1.php:34
+#: template-parts/holis/styles/style-1.php:34
+msgid "Message From"
+msgstr ""
+
+#: template-parts/post/styles/style-1.php:90
+#: template-parts/post/styles/style-3.php:67
+msgid "Read More"
+msgstr ""
+
+#: template-parts/puja/single/style-1.php:24
+msgid "Puja Type:"
+msgstr ""
+
+#: template-parts/puja/single/style-1.php:34
+msgid "Category:"
+msgstr ""
+
+#: template-parts/service/styles/style-2.php:25
+#: template-parts/service/styles/style-3.php:25
+msgid "Learn More"
+msgstr ""
+
+#: template-parts/volunteer/single/style-1.php:35
+msgid "Phone Number :"
+msgstr ""
+
+#: template-parts/volunteer/single/style-1.php:44
+msgid "Email :"
+msgstr ""
+
+#: template-parts/volunteer/single/style-1.php:53
+msgid "Website :"
+msgstr ""
+
+#: template-parts/volunteer/single/style-1.php:62
+msgid "Address Info :"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-added.php:35
+#: woocommerce/add-to-wishlist-browse.php:35
+msgid "Browse Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:41
+msgid "Add To Wishlist"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:27
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:30
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:33
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Post Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Full Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Email Address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Type you comment..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:76 woocommerce/cart/cart.php:26
+#: woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:84 woocommerce/cart/cart.php:27
+#: woocommerce/cart/cart.php:85 woocommerce/checkout/review-order.php:24
+#: woocommerce/global/quantity-input.php:26
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:92
+msgid "Stock status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:100
+msgid "Actions"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:108
+msgid "Arrange"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:137 woocommerce/wishlist-view.php:244
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:191
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:217
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:237
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:262
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:105
+#: woocommerce/checkout/review-order.php:25
+#: woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:48 woocommerce/cart/mini-cart.php:41
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121 woocommerce/checkout/form-coupon.php:28
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122 woocommerce/checkout/form-coupon.php:29
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:22
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:41
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:23
+msgid "Do you have a coupon code?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:23
+msgid "Click here to apply"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:23
+msgid "Are you a returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:23
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:28
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:106
+msgid "Total"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:31
+msgid "QTY:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:29
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:67
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:23
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:31
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:23
+msgid "Upsells"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:24
+msgid "You Might Like"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""

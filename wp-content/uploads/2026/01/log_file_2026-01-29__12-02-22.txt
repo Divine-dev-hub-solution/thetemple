@@ -1,0 +1,151 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/thetemple
+Data file = C:\wamp64\www\thetemple\wp-content\plugins\sigma-core/includes/sample-demos/default/content.xml
+Widget file = C:\wamp64\www\thetemple\wp-content\plugins\sigma-core/includes/sample-demos/default/widget.wie
+Customizer file = C:\wamp64\www\thetemple\wp-content\plugins\sigma-core/includes/sample-demos/default/customizer.dat
+Redux files:
+maharatri_options -> C:\wamp64\www\thetemple\wp-content\plugins\sigma-core/includes/sample-demos/default/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Sigma Recent Posts - Recent Posts - Imported
+Categories - Our Categories - Imported
+Sigma Social Share - Never Miss Out - Imported
+Tag Cloud - Popular Tags - Imported
+Sigma Call to action Widget - No Title - Imported
+
+Footer column 1 : 
+
+Text - About Us - Imported
+
+Footer column 2 : 
+
+Navigation Menu - Information - Imported
+
+Footer column 3 : 
+
+Navigation Menu - Others - Imported
+
+Footer column 4 : 
+
+Sigma Recent Posts - Recent Posts - Imported
+
+Header Collapse Sidebar : 
+
+Text - No Title - Imported
+Sigma Social Share - Never Miss Out - Imported
+Sigma Recent Posts - Latest News - Imported
+
+Events Sidebar : 
+
+Search - Search - Imported
+Sigma Recent Events - Recent Events - Imported
+Categories - Our Categories - Imported
+Sigma Social Share - Never Miss Out - Imported
+Custom Twitter Feeds - Twitter Feed - Imported
+Tag Cloud - Tags - Imported
+Sigma Call to action Widget - No Title - Imported
+
+Events Details Sidebar : 
+
+Sigma Recent Events - Upcoming Events - Imported
+Sigma Social Share - Never Miss Out - Imported
+
+Shop Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product Categories - Imported
+Products list - Latest Products - Imported
+Sigma Call to action Widget - No Title - Imported
+Product Tag Cloud - Product Tags - Imported
+
+Product Details Sidebar : 
+
+Product Categories - Product Categories - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: maharatri_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Slider processed
