@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'thetemple' );
+define( 'DB_NAME', 'srividyashaktisadhana_db' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'srividya_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Srividya@1234' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -89,8 +89,7 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
-
+define('FS_METHOD', 'direct');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */

@@ -4,9 +4,14 @@
   /*-------------------------------------------------------------------------------
  Preloader
  -------------------------------------------------------------------------------*/
+ var $preloader = $('.sigma_preloader');
  $(window).on('load', function() {
-   $('.sigma_preloader').addClass('hidden');
+   $preloader.addClass('hidden');
  });
+ // Fallback: force-hide preloader after 5s if window load hasn't fired yet
+ setTimeout(function() {
+   $preloader.addClass('hidden');
+ }, 5000);
 
 
   /*-------------------------------------------------------------------------------
