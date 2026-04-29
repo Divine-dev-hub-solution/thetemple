@@ -4,205 +4,205 @@
 
 ## Sitemaps
 
-- [XML Sitemap](http://localhost/thetemple/sitemap.xml): Contains all public & indexable URLs for this website.
+- [XML Sitemap](http://localhost/sitemap.xml): Contains all public & indexable URLs for this website.
 
 ## Posts
 
-- [Blog](http://localhost/thetemple/blog/)
-- [Story of Rama](http://localhost/thetemple/2022/01/07/story-of-rama/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Krishna’s infancy](http://localhost/thetemple/2022/01/08/krishnas-infancy/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Dharma in practice](http://localhost/thetemple/2022/01/09/dharma-in-practice/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Humility is wealth](http://localhost/thetemple/2022/01/10/humility-is-wealth/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Lord Siva’s valour](http://localhost/thetemple/2022/01/01/lord-sivas-valour/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Nature of Brahman](http://localhost/thetemple/2022/01/04/nature-of-brahman/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [The Lord's Maya](http://localhost/thetemple/2022/01/05/the-lords-maya/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Bali the real winner](http://localhost/thetemple/2022/01/06/bali-the-real-winner/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [The fifth Veda](http://localhost/thetemple/2022/01/11/the-fifth-veda/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Lord Rama’s regret](http://localhost/thetemple/2022/01/12/lord-ramas-regret/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Relief From Samsara](http://localhost/thetemple/2022/01/13/relief-from-samsara/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [The Immortal soul](http://localhost/thetemple/2022/01/14/the-immortal-soul/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
-- [Hello world!](http://localhost/thetemple/2026/01/28/hello-world/) - Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
-- [Bondage and moksha](http://localhost/thetemple/2022/01/03/bondage-and-moksha/) - The Upanishads, the Bhagavad Gita, 18 Puranas, Ramayana and Mahabharata are also considered important texts in Hinduism.By Pandit S Dubey
-- [Greatness of the Vedas](http://localhost/thetemple/2022/01/02/greatness-of-the-vedas/) - https://www.yourlink.com The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has
+- [Blog](http://localhost/blog/)
+- [Story of Rama](http://localhost/2022/01/07/story-of-rama/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Krishna’s infancy](http://localhost/2022/01/08/krishnas-infancy/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Dharma in practice](http://localhost/2022/01/09/dharma-in-practice/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Humility is wealth](http://localhost/2022/01/10/humility-is-wealth/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Lord Siva’s valour](http://localhost/2022/01/01/lord-sivas-valour/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Nature of Brahman](http://localhost/2022/01/04/nature-of-brahman/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [The Lord's Maya](http://localhost/2022/01/05/the-lords-maya/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Bali the real winner](http://localhost/2022/01/06/bali-the-real-winner/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [The fifth Veda](http://localhost/2022/01/11/the-fifth-veda/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Lord Rama’s regret](http://localhost/2022/01/12/lord-ramas-regret/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Relief From Samsara](http://localhost/2022/01/13/relief-from-samsara/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [The Immortal soul](http://localhost/2022/01/14/the-immortal-soul/) - The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has to
+- [Hello world!](http://localhost/2026/01/28/hello-world/) - Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+- [Bondage and moksha](http://localhost/2022/01/03/bondage-and-moksha/) - The Upanishads, the Bhagavad Gita, 18 Puranas, Ramayana and Mahabharata are also considered important texts in Hinduism.By Pandit S Dubey
+- [Greatness of the Vedas](http://localhost/2022/01/02/greatness-of-the-vedas/) - https://www.yourlink.com The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for the term dharma, for in it is subsumed a highly complex subject. The way of dharma is subtle and hence difficult to understand. The History takes care to drive home the point that dharma has
 
 ## Pages
 
-- [Home](http://localhost/thetemple/) - It is not easy to give a synonym for the term dharma. JOIN TEMPLE VIEW SERVICES SOME IMPORTANT LIFE LESSON FROM GITA 75 % Donnation Success Rate Donate Us To Feed The Orphan Child & vedas transcend all time Teach them Dharma. Make a Donation Donate Us To Help Corpus Fund Donation Respected Donor Please
-- [Donate Now](http://localhost/thetemple/donate-now/)
-- [Donation](http://localhost/thetemple/donation/)
-- [Gallery](http://localhost/thetemple/gallery/)
-- [Donor Dashboard](http://localhost/thetemple/donor-dashboard/)
-- [Donation Failed](http://localhost/thetemple/donation-failed/) - We're sorry, your donation failed to process. Please try again or contact site support.
-- [Donation Confirmation](http://localhost/thetemple/donation-confirmation/)
-- [Sample Page](http://localhost/thetemple/sample-page/) - This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger
-- [Donor Dashboard](http://localhost/thetemple/donor-dashboard-2/)
-- [Donation Confirmation](http://localhost/thetemple/donation-confirmation-2/)
-- [Donation Failed](http://localhost/thetemple/donation-failed-2/) - We're sorry, your donation failed to process. Please try again or contact site support.
-- [Wishlist](http://localhost/thetemple/wishlist/)
-- [Events](http://localhost/thetemple/events/)
-- [Holis](http://localhost/thetemple/holis/)
-- [Compare](http://localhost/thetemple/compare/)
-- [Contact](http://localhost/thetemple/contact/) - SEND EMAIL Email Address temple@example.com temple@support.com CALL US NOW Phone Number +1234567890 +4789384293 FIND US HERE Location 16/A Daddy Yankee Tower New York, US
-- [FAQ](http://localhost/thetemple/faq/) - What is a Live Darshan?Through Live Video Call Or Broadcast You can do darshan of lords and their priest even you can join us through zoom app. Through Live Video Call Or Broadcast You can do darshan of lords and their priest even you can join us through zoom app. How to Get Prasad By
-- [Broadcast](http://localhost/thetemple/broadcast/) - LIVE WORSHIP Broadcast : Live Aarti & Darshan By admin Tags Temple Hinduism January 14, 2022 The Immortal soul The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for By admin Tags Temple Hinduism January 13, 2022 Relief From Samsara The Mahabharata is the greatest exponent
-- [About](http://localhost/thetemple/about/) - EDUCATION FOR ALL RURAL CHILDREN Our Beliefs In Holy Hinduism Books We Hindus believe that the Vedas transcend all time and don’t have a beginning or an end. The discourse that takes place between The Samaveda, Yajurveda, Atharvaveda of Gods, Lord & Temples In The World Some Important Life Lessons From Bhagwat Gita & Ramayana
-- [Home 2](http://localhost/thetemple/home-2/) - Next Event Should I Believe in Rebirth? 12 Jul'24 Friday (07:00am-06:00pm) 56 Thatcher Avenue River Forest Chicago, IL United States Join Now Latest Holis Festival Of The Colours Message From admin September 28, 2021 0:00 Holy-Books Our Holy-Books Vedas Rig-Veda Lesson From Rig-veda We Hindus believe that the Vedas transcend all time of the soul
-- [Donation Form](http://localhost/thetemple/donation-form/) - DONATE TO HELP Make a donation to help us Notice: Test mode is enabled. While in test mode no live donations are processed. Donation Amount: $ 0 Donate Now Select Payment Method Test Donation Offline Donation Personal Info First Name * Last Name Email Address * WAYS WE CAN HELP Angels Ready To Help Respected
-- [Donation Archive](http://localhost/thetemple/donation-archive/) - Corpus Fund Donation Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple Raised: $0 Goal: $0 0% Donate Now General Donation Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple Raised: $0 Goal: $0 0% Donate Now Renovation Of Temple Respected Donor Please Donate Us Your Desired Amount. To
-- [Volunteers](http://localhost/thetemple/volunteers/) - सदगुरु श्री परम पूज्य श्री संध्यागिरि बापू महंत श्री परम पूज्य श्री अजयगिरि बापू Member Shri Shankar Dubey Member Shri Abhinash Sharma Member Shri Vipul Dev Maharaj Member Shri Hrishi Ji Maharaj Church Member Shri Kaushalkant Mishara Member Shri Harendra Pathak BLOG News Feed January 28, 2026 Hello world! Welcome to WordPress. This is your
-- [Our Puja](http://localhost/thetemple/our-puja/) - All Festivals Geeta Religion Temple Vedas Special Puja Badrinath and Balaji Temple Situated In Chhattisgarh India Durga Puja Regular Scheduled Pujas In evening 'sandhya' and In Morning 'Surya Uday' Kali Puja The three main classes in the classic division of Indian society are the Brahmans, Santoshi Puja The size and artistic value of temples range
-- [Services 2](http://localhost/thetemple/services-2/) - Prayers For peace and happiness. For unity and harmony among family members. Puja For unity and harmony among family members. For peace and happiness. Darshan Hindus celebrate a number of other important festivals, including Diwali, Praise & Worship For unity and harmony among family members. For peace and happiness. Bhagwat Path Hindus celebrate a number
-- [Services](http://localhost/thetemple/services/) - Prayers For peace and happiness. For unity and harmony among family members. Learn More Puja For unity and harmony among family members. For peace and happiness. Learn More Darshan Hindus celebrate a number of other important festivals, including Diwali, Learn More Praise & Worship For unity and harmony among family members. For peace and happiness.
-- [Home 3](http://localhost/thetemple/home-3/) - OPEN HEARTS OPEN HANDS We are a Hindu that belives in Lord Rama and Vishnu Deva and We are a Hindu that belives in Lord Rama. JOIN TODAY DONATE US LORD RAMA GIVE US POWER TO BELIEVE Every religion in its own tradition builds houses of worship. It is the mandir that fuels our faith
-- [Shop](http://localhost/thetemple/shop/)
-- [Cart](http://localhost/thetemple/cart/)
-- [Checkout](http://localhost/thetemple/checkout/)
-- [My account](http://localhost/thetemple/my-account/)
+- [Home](http://localhost/) - It is not easy to give a synonym for the term dharma. JOIN TEMPLE VIEW SERVICES SOME IMPORTANT LIFE LESSON FROM GITA 75 % Donnation Success Rate Donate Us To Feed The Orphan Child & vedas transcend all time Teach them Dharma. Make a Donation Donate Us To Help Corpus Fund Donation Respected Donor Please
+- [Donate Now](http://localhost/donate-now/)
+- [Donation](http://localhost/donation/)
+- [Gallery](http://localhost/gallery/)
+- [Donor Dashboard](http://localhost/donor-dashboard/)
+- [Donation Failed](http://localhost/donation-failed/) - We're sorry, your donation failed to process. Please try again or contact site support.
+- [Donation Confirmation](http://localhost/donation-confirmation/)
+- [Sample Page](http://localhost/sample-page/) - This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger
+- [Donor Dashboard](http://localhost/donor-dashboard-2/)
+- [Donation Failed](http://localhost/donation-failed-2/) - We're sorry, your donation failed to process. Please try again or contact site support.
+- [Donation Confirmation](http://localhost/donation-confirmation-2/)
+- [Wishlist](http://localhost/wishlist/)
+- [Events](http://localhost/events/)
+- [Holis](http://localhost/holis/)
+- [Compare](http://localhost/compare/)
+- [Contact](http://localhost/contact/) - Δ SEND EMAIL Email Address temple@example.com temple@support.com CALL US NOW Phone Number +1234567890 +4789384293 FIND US HERE Location 16/A Daddy Yankee Tower New York, US
+- [FAQ](http://localhost/faq/) - What is a Live Darshan?Through Live Video Call Or Broadcast You can do darshan of lords and their priest even you can join us through zoom app. Through Live Video Call Or Broadcast You can do darshan of lords and their priest even you can join us through zoom app. How to Get Prasad By
+- [Broadcast](http://localhost/broadcast/) - LIVE WORSHIP Broadcast : Live Aarti & Darshan You must first enter an API and a channel ID before you can display a live broadcast By admin Tags Temple Hinduism January 14, 2022 The Immortal soul The Mahabharata is the greatest exponent of dharma in practice. It is not easy to give a synonym for
+- [About](http://localhost/about/) - EDUCATION FOR ALL RURAL CHILDREN Our Beliefs In Holy Hinduism Books We Hindus believe that the Vedas transcend all time and don’t have a beginning or an end. The discourse that takes place between The Samaveda, Yajurveda, Atharvaveda of Gods, Lord & Temples In The World Some Important Life Lessons From Bhagwat Gita & Ramayana
+- [Home 2](http://localhost/home-2/) - Next Event Should I Believe in Rebirth? 12 Jul'24 Friday (07:00am-06:00pm) 56 Thatcher Avenue River Forest Chicago, IL United States Join Now Latest Holis Festival Of The Colours Message From admin September 28, 2021 0:00 Holy-Books Our Holy-Books Vedas Rig-Veda Lesson From Rig-veda We Hindus believe that the Vedas transcend all time of the soul
+- [Donation Form](http://localhost/donation-form/) - DONATE TO HELP Make a donation to help us Notice: Test mode is enabled. While in test mode no live donations are processed. Donation Amount: $ 0 Donate Now Select Payment Method Test Donation Offline Donation WAYS WE CAN HELP Angels Ready To Help Respected Donor Can Donate any Amount He or She Want To
+- [Donation Archive](http://localhost/donation-archive/) - Corpus Fund Donation Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple Raised: $0 Goal: $0 0% Donate Now General Donation Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple Raised: $0 Goal: $0 0% Donate Now Renovation Of Temple Respected Donor Please Donate Us Your Desired Amount. To
+- [Volunteers](http://localhost/volunteers/) - सदगुरु श्री परम पूज्य श्री संध्यागिरि बापू महंत श्री परम पूज्य श्री अजयगिरि बापू Member Shri Shankar Dubey Member Shri Abhinash Sharma Member Shri Vipul Dev Maharaj Member Shri Hrishi Ji Maharaj Church Member Shri Kaushalkant Mishara Member Shri Harendra Pathak Δ BLOG News Feed January 28, 2026 Hello world! Welcome to WordPress. This is
+- [Our Puja](http://localhost/our-puja/) - All Festivals Geeta Religion Temple Vedas Special Puja Badrinath and Balaji Temple Situated In Chhattisgarh India Durga Puja Regular Scheduled Pujas In evening 'sandhya' and In Morning 'Surya Uday' Kali Puja The three main classes in the classic division of Indian society are the Brahmans, Santoshi Puja The size and artistic value of temples range
+- [Services 2](http://localhost/services-2/) - Prayers For peace and happiness. For unity and harmony among family members. Puja For unity and harmony among family members. For peace and happiness. Darshan Hindus celebrate a number of other important festivals, including Diwali, Praise & Worship For unity and harmony among family members. For peace and happiness. Bhagwat Path Hindus celebrate a number
+- [Services](http://localhost/services/) - Prayers For peace and happiness. For unity and harmony among family members. Learn More Puja For unity and harmony among family members. For peace and happiness. Learn More Darshan Hindus celebrate a number of other important festivals, including Diwali, Learn More Praise & Worship For unity and harmony among family members. For peace and happiness.
+- [Home 3](http://localhost/home-3/) - OPEN HEARTS OPEN HANDS We are a Hindu that belives in Lord Rama and Vishnu Deva and We are a Hindu that belives in Lord Rama. JOIN TODAY DONATE US LORD RAMA GIVE US POWER TO BELIEVE Every religion in its own tradition builds houses of worship. It is the mandir that fuels our faith
+- [Shop](http://localhost/shop/)
+- [My account](http://localhost/my-account/)
+- [Checkout](http://localhost/checkout/)
+- [Cart](http://localhost/cart/)
 
 ## My Templates
 
-- [Default Kit](http://localhost/thetemple/?elementor_library=default-kit)
+- [Default Kit](http://localhost/?elementor_library=default-kit)
 
 ## Donation Forms
 
-- [Corpus Fund Donation](http://localhost/thetemple/donations/become-those-who-do/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
-- [General Donation](http://localhost/thetemple/donations/donate-ngos/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
-- [Renovation Of Temple](http://localhost/thetemple/donations/feed-poors/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
-- [Repairing Of The Temple](http://localhost/thetemple/donations/empower-young-people/) - Respected Donor Please Donate Us Your Desired Amount. To Repairing of the Temple
-- [Religious Nights](http://localhost/thetemple/donations/donate-schools/) - Respected Donor Please Donate Us Your Desired Amount. To Promote The Religion
-- [Feed Poor and Orphan](http://localhost/thetemple/donations/protecting-children/) - We Feeds Poor And Orphan Family And Greed Them About Hinduism
+- [Corpus Fund Donation](http://localhost/donations/become-those-who-do/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
+- [General Donation](http://localhost/donations/donate-ngos/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
+- [Renovation Of Temple](http://localhost/donations/feed-poors/) - Respected Donor Please Donate Us Your Desired Amount. To Renovate the Temple
+- [Repairing Of The Temple](http://localhost/donations/empower-young-people/) - Respected Donor Please Donate Us Your Desired Amount. To Repairing of the Temple
+- [Religious Nights](http://localhost/donations/donate-schools/) - Respected Donor Please Donate Us Your Desired Amount. To Promote The Religion
+- [Feed Poor and Orphan](http://localhost/donations/protecting-children/) - We Feeds Poor And Orphan Family And Greed Them About Hinduism
 
 ## Products
 
-- [Temple Donation](http://localhost/thetemple/product/temple-donation/)
-- [Bhagavad Gita](http://localhost/thetemple/product/bhagavad-gita/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Puja Thali](http://localhost/thetemple/product/puja-thali/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Ganesha Sculpture](http://localhost/thetemple/product/ganesha-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Dance Sculpture](http://localhost/thetemple/product/dance-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Diya Samai](http://localhost/thetemple/product/diya-samai/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Rudraksh Bracelet](http://localhost/thetemple/product/rudraksh-bracelet/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Handbell](http://localhost/thetemple/product/handbell/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Prayer Beads](http://localhost/thetemple/product/prayer-beads/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Candle Bundle](http://localhost/thetemple/product/candle-bundle/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Candle Holder](http://localhost/thetemple/product/candle-holder-2/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Marble Ganesha Sculpture](http://localhost/thetemple/product/marble-ganesha-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-- [Rudraksha Mala](http://localhost/thetemple/product/rudraksha-mala/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Temple Donation](http://localhost/product/temple-donation/)
+- [Bhagavad Gita](http://localhost/product/bhagavad-gita/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Puja Thali](http://localhost/product/puja-thali/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Ganesha Sculpture](http://localhost/product/ganesha-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Dance Sculpture](http://localhost/product/dance-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Diya Samai](http://localhost/product/diya-samai/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Rudraksh Bracelet](http://localhost/product/rudraksh-bracelet/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Handbell](http://localhost/product/handbell/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Prayer Beads](http://localhost/product/prayer-beads/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Candle Bundle](http://localhost/product/candle-bundle/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Candle Holder](http://localhost/product/candle-holder-2/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Marble Ganesha Sculpture](http://localhost/product/marble-ganesha-sculpture/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
+- [Rudraksha Mala](http://localhost/product/rudraksha-mala/) - Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
 
 ## Volunteer
 
-- [परम पूज्य श्री अजयगिरि बापू](http://localhost/thetemple/volunteer/shri-govind-deb/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [परम पूज्य श्री संध्यागिरि बापू](http://localhost/thetemple/volunteer/shri-murli-manohar/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Shankar Dubey](http://localhost/thetemple/volunteer/shri-shankar-dubey/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Abhinash Sharma](http://localhost/thetemple/volunteer/shri-abhinash-sharma/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Vipul Dev Maharaj](http://localhost/thetemple/volunteer/shri-vipul-dev-maharaj/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Hrishi Ji Maharaj](http://localhost/thetemple/volunteer/shri-hrishi-ji-maharaj/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Kaushalkant Mishara](http://localhost/thetemple/volunteer/shri-kaushalkant-mishara/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-- [Shri Harendra Pathak](http://localhost/thetemple/volunteer/shri-harendra-pathak/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [परम पूज्य श्री अजयगिरि बापू](http://localhost/volunteer/shri-govind-deb/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [परम पूज्य श्री संध्यागिरि बापू](http://localhost/volunteer/shri-murli-manohar/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Shankar Dubey](http://localhost/volunteer/shri-shankar-dubey/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Abhinash Sharma](http://localhost/volunteer/shri-abhinash-sharma/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Vipul Dev Maharaj](http://localhost/volunteer/shri-vipul-dev-maharaj/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Hrishi Ji Maharaj](http://localhost/volunteer/shri-hrishi-ji-maharaj/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Kaushalkant Mishara](http://localhost/volunteer/shri-kaushalkant-mishara/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+- [Shri Harendra Pathak](http://localhost/volunteer/shri-harendra-pathak/) - Our mission is to share the Good of Hinduism, Loving, Faith and Serving. People ask questions related to Hinduism. Temple is a place where Hindu worship our Bhagwan Ram, Shiva, Vishnu, Krishna etc. galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
 
 ## Services
 
-- [Prayers](http://localhost/thetemple/service/prayers/) - For peace and happiness. For unity and harmony among family members.
-- [Puja](http://localhost/thetemple/service/puja/) - For unity and harmony among family members. For peace and happiness.
-- [Darshan](http://localhost/thetemple/service/darshan/) - Hindus celebrate a number of other important festivals, including Diwali,
-- [Praise & Worship](http://localhost/thetemple/service/praise-worship/) - For unity and harmony among family members. For peace and happiness.
-- [Bhagwat Path](http://localhost/thetemple/service/bhagwat-path/) - Hindus celebrate a number of other important festivals, including Diwali,
-- [Prasad Sadan](http://localhost/thetemple/service/prasad-sadan/) - Hindus celebrate a number of other important festivals, including Diwali,
+- [Prayers](http://localhost/service/prayers/) - For peace and happiness. For unity and harmony among family members.
+- [Puja](http://localhost/service/puja/) - For unity and harmony among family members. For peace and happiness.
+- [Darshan](http://localhost/service/darshan/) - Hindus celebrate a number of other important festivals, including Diwali,
+- [Praise & Worship](http://localhost/service/praise-worship/) - For unity and harmony among family members. For peace and happiness.
+- [Bhagwat Path](http://localhost/service/bhagwat-path/) - Hindus celebrate a number of other important festivals, including Diwali,
+- [Prasad Sadan](http://localhost/service/prasad-sadan/) - Hindus celebrate a number of other important festivals, including Diwali,
 
 ## Events
 
-- [People ask questions related to Hinduism](http://localhost/thetemple/events/people-ask-questions-related-to-hinduism/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
-- [Temple is a place where Hindu worship](http://localhost/thetemple/events/temple-is-a-place-where-hindu-worship/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
-- [Should I Believe in Rebirth?](http://localhost/thetemple/events/should-i-believe-in-rebirth/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
-- [Serving the needs of the Hindu Community is untram](http://localhost/thetemple/events/serving-the-needs-of-the-hindu-community-is-untram/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
-- [Some Hindu teachers insist that believing in rebirth](http://localhost/thetemple/events/some-hindu-teachers-insist-that-believing-in-rebirth/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
-- [Acts of Puja in Honor of Summer](http://localhost/thetemple/events/acts-of-puja-in-honor-of-summer/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [People ask questions related to Hinduism](http://localhost/events/people-ask-questions-related-to-hinduism/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [Temple is a place where Hindu worship](http://localhost/events/temple-is-a-place-where-hindu-worship/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [Should I Believe in Rebirth?](http://localhost/events/should-i-believe-in-rebirth/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [Serving the needs of the Hindu Community is untram](http://localhost/events/serving-the-needs-of-the-hindu-community-is-untram/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [Some Hindu teachers insist that believing in rebirth](http://localhost/events/some-hindu-teachers-insist-that-believing-in-rebirth/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
+- [Acts of Puja in Honor of Summer](http://localhost/events/acts-of-puja-in-honor-of-summer/) - You should be able to find several indispensable facts about motivation in the following paragraphs. If there’s at least one fact you didn’t know before, imagine the difference it might make. It’s so difficult to go on when everything seems to fail, isn’t it.
 
 ## Holis
 
-- [Festival Of The Colours](http://localhost/thetemple/holis/festival-of-the-colours/) - Shiva is the foremost deity in the Hindu pantheon and regarded as the destroyer.
-- [Holika Dahan Or Chhoti Holi](http://localhost/thetemple/holis/holika-dahan-or-chhoti-holi/) - Shiva is the foremost deity in the Hindu pantheon and regarded as the destroyer.
-- [Victory of Good Over Evils](http://localhost/thetemple/holis/victory-of-good-over-evils/) - Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod
-- [Sweets Drinks & Bhang](http://localhost/thetemple/holis/sweets-drinks-bhang/) - Lord Krishna, Dwarka-dhish temple is situated in the Dwarka city (Gujarat). Also known as Jagat Mandir
-- [The Spring Festival](http://localhost/thetemple/holis/the-spring-festival/) - The holy temple of Sai baba was built in 1922, in the Shirdi town of Maharashtra. India.
-- [Colour-Powder Water & Mude](http://localhost/thetemple/holis/colour-powder-water-mude/) - Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod
+- [Festival Of The Colours](http://localhost/holis/festival-of-the-colours/) - Shiva is the foremost deity in the Hindu pantheon and regarded as the destroyer.
+- [Holika Dahan Or Chhoti Holi](http://localhost/holis/holika-dahan-or-chhoti-holi/) - Shiva is the foremost deity in the Hindu pantheon and regarded as the destroyer.
+- [Victory of Good Over Evils](http://localhost/holis/victory-of-good-over-evils/) - Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod
+- [Sweets Drinks & Bhang](http://localhost/holis/sweets-drinks-bhang/) - Lord Krishna, Dwarka-dhish temple is situated in the Dwarka city (Gujarat). Also known as Jagat Mandir
+- [The Spring Festival](http://localhost/holis/the-spring-festival/) - The holy temple of Sai baba was built in 1922, in the Shirdi town of Maharashtra. India.
+- [Colour-Powder Water & Mude](http://localhost/holis/colour-powder-water-mude/) - Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod
 
 ## Puja
 
-- [Special Puja](http://localhost/thetemple/puja/special-puja/) - Badrinath and Balaji Temple Situated In Chhattisgarh India
-- [Durga Puja](http://localhost/thetemple/puja/durga-puja/) - Regular Scheduled Pujas In evening 'sandhya' and In Morning 'Surya Uday'
-- [Kali Puja](http://localhost/thetemple/puja/kali-puja/) - The three main classes in the classic division of Indian society are the Brahmans, the warriors, and the commoners.
-- [Santoshi Puja](http://localhost/thetemple/puja/santoshi-puja/) - The size and artistic value of temples range widely
-- [Bhagavati Seva](http://localhost/thetemple/puja/bhagavati-seva/) - According to the texts on dharma, the duty of the fourth class (the Shudras) was to serve the others.
-- [Vishnu Puja](http://localhost/thetemple/puja/vishnu-puja/) - Hindu festivals are combinations of religious ceremonies,
-- [Saraswati Puja](http://localhost/thetemple/puja/saraswati-puja/) - Temple services, which may be held by any qualified member of the community,
-- [Laxmi Puja](http://localhost/thetemple/puja/laxmi-puja/) - Hindus celebrate a number of other important festivals,
-- [Shiva Shakti](http://localhost/thetemple/puja/shiva-shakti/) - Hindu festivals are combinations of religious ceremonies,
+- [Special Puja](http://localhost/puja/special-puja/) - Badrinath and Balaji Temple Situated In Chhattisgarh India
+- [Durga Puja](http://localhost/puja/durga-puja/) - Regular Scheduled Pujas In evening 'sandhya' and In Morning 'Surya Uday'
+- [Kali Puja](http://localhost/puja/kali-puja/) - The three main classes in the classic division of Indian society are the Brahmans, the warriors, and the commoners.
+- [Santoshi Puja](http://localhost/puja/santoshi-puja/) - The size and artistic value of temples range widely
+- [Bhagavati Seva](http://localhost/puja/bhagavati-seva/) - According to the texts on dharma, the duty of the fourth class (the Shudras) was to serve the others.
+- [Vishnu Puja](http://localhost/puja/vishnu-puja/) - Hindu festivals are combinations of religious ceremonies,
+- [Saraswati Puja](http://localhost/puja/saraswati-puja/) - Temple services, which may be held by any qualified member of the community,
+- [Laxmi Puja](http://localhost/puja/laxmi-puja/) - Hindus celebrate a number of other important festivals,
+- [Shiva Shakti](http://localhost/puja/shiva-shakti/) - Hindu festivals are combinations of religious ceremonies,
 
 ## Categories
 
-- [Uncategorized](http://localhost/thetemple/category/uncategorized/)
-- [Event](http://localhost/thetemple/category/event/)
-- [God](http://localhost/thetemple/category/god/)
+- [Uncategorized](http://localhost/category/uncategorized/)
+- [Event](http://localhost/category/event/)
+- [God](http://localhost/category/god/)
 
 ## Tags
 
-- [Bali Hindu Temple](http://localhost/thetemple/tag/bali-hindu-temple/)
-- [Brahman](http://localhost/thetemple/tag/brahman/)
-- [Event](http://localhost/thetemple/tag/event/)
-- [Gods](http://localhost/thetemple/tag/gods/)
-- [Lord God Temple](http://localhost/thetemple/tag/lord-god-temple/)
-- [Shiva Temple](http://localhost/thetemple/tag/shiva-temple/)
-- [Temple](http://localhost/thetemple/tag/temple/)
-- [Temple Hindu](http://localhost/thetemple/tag/temple-hindu/)
-- [Temple Hinduism](http://localhost/thetemple/tag/temple-hinduism/)
-- [Vedas Temple](http://localhost/thetemple/tag/vedas-temple/)
+- [Bali Hindu Temple](http://localhost/tag/bali-hindu-temple/)
+- [Brahman](http://localhost/tag/brahman/)
+- [Event](http://localhost/tag/event/)
+- [Gods](http://localhost/tag/gods/)
+- [Lord God Temple](http://localhost/tag/lord-god-temple/)
+- [Shiva Temple](http://localhost/tag/shiva-temple/)
+- [Temple](http://localhost/tag/temple/)
+- [Temple Hindu](http://localhost/tag/temple-hindu/)
+- [Temple Hinduism](http://localhost/tag/temple-hinduism/)
+- [Vedas Temple](http://localhost/tag/vedas-temple/)
 
 ## Product categories
 
-- [Uncategorized](http://localhost/thetemple/product-category/uncategorized/)
-- [Beads](http://localhost/thetemple/product-category/beads/)
-- [Book](http://localhost/thetemple/product-category/book/)
-- [Bracelet](http://localhost/thetemple/product-category/bracelet/)
-- [Candle Holder](http://localhost/thetemple/product-category/candle-holder/)
-- [Mala](http://localhost/thetemple/product-category/mala/)
-- [Sculpture](http://localhost/thetemple/product-category/sculpture/)
-- [Stand](http://localhost/thetemple/product-category/stand/)
-- [Thali](http://localhost/thetemple/product-category/thali/)
+- [Uncategorized](http://localhost/product-category/uncategorized/)
+- [Beads](http://localhost/product-category/beads/)
+- [Book](http://localhost/product-category/book/)
+- [Bracelet](http://localhost/product-category/bracelet/)
+- [Candle Holder](http://localhost/product-category/candle-holder/)
+- [Mala](http://localhost/product-category/mala/)
+- [Sculpture](http://localhost/product-category/sculpture/)
+- [Stand](http://localhost/product-category/stand/)
+- [Thali](http://localhost/product-category/thali/)
 
 ## Product tags
 
-- [Beads](http://localhost/thetemple/product-tag/beads/)
-- [Bell](http://localhost/thetemple/product-tag/bell/)
-- [Book](http://localhost/thetemple/product-tag/book/)
-- [Bracelet](http://localhost/thetemple/product-tag/bracelet/)
-- [Candle](http://localhost/thetemple/product-tag/candle/)
-- [Diya](http://localhost/thetemple/product-tag/diya/)
-- [Gita](http://localhost/thetemple/product-tag/gita/)
-- [Mala](http://localhost/thetemple/product-tag/mala/)
-- [Murti](http://localhost/thetemple/product-tag/murti/)
-- [Puja](http://localhost/thetemple/product-tag/puja/)
-- [Rudraksha](http://localhost/thetemple/product-tag/rudraksha/)
-- [Sculpture](http://localhost/thetemple/product-tag/sculpture/)
-- [Stand](http://localhost/thetemple/product-tag/stand/)
-- [Thali](http://localhost/thetemple/product-tag/thali/)
+- [Beads](http://localhost/product-tag/beads/)
+- [Bell](http://localhost/product-tag/bell/)
+- [Book](http://localhost/product-tag/book/)
+- [Bracelet](http://localhost/product-tag/bracelet/)
+- [Candle](http://localhost/product-tag/candle/)
+- [Diya](http://localhost/product-tag/diya/)
+- [Gita](http://localhost/product-tag/gita/)
+- [Mala](http://localhost/product-tag/mala/)
+- [Murti](http://localhost/product-tag/murti/)
+- [Puja](http://localhost/product-tag/puja/)
+- [Rudraksha](http://localhost/product-tag/rudraksha/)
+- [Sculpture](http://localhost/product-tag/sculpture/)
+- [Stand](http://localhost/product-tag/stand/)
+- [Thali](http://localhost/product-tag/thali/)
 
 ## Event Categories
 
-- [Arti](http://localhost/thetemple/events-category/arti/)
-- [Dharma Puja](http://localhost/thetemple/events-category/dharma-puja/)
-- [Honor](http://localhost/thetemple/events-category/honor/)
+- [Arti](http://localhost/events-category/arti/)
+- [Dharma Puja](http://localhost/events-category/dharma-puja/)
+- [Honor](http://localhost/events-category/honor/)
 
 ## Events Tags
 
-- [Arti](http://localhost/thetemple/events-tag/arti/)
-- [Puja](http://localhost/thetemple/events-tag/puja/)
-- [Temple](http://localhost/thetemple/events-tag/temple/)
+- [Arti](http://localhost/events-tag/arti/)
+- [Puja](http://localhost/events-tag/puja/)
+- [Temple](http://localhost/events-tag/temple/)
 
 ## Puja Categories
 
-- [Festivals](http://localhost/thetemple/puja-category/festivals/)
-- [Geeta](http://localhost/thetemple/puja-category/geeta/)
-- [Religion](http://localhost/thetemple/puja-category/religion/)
-- [Temple](http://localhost/thetemple/puja-category/temple/)
-- [Vedas](http://localhost/thetemple/puja-category/vedas/)
+- [Festivals](http://localhost/puja-category/festivals/)
+- [Geeta](http://localhost/puja-category/geeta/)
+- [Religion](http://localhost/puja-category/religion/)
+- [Temple](http://localhost/puja-category/temple/)
+- [Vedas](http://localhost/puja-category/vedas/)
 
